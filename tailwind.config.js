@@ -23,7 +23,7 @@ module.exports = {
     './src/app/layout/**/*.{html,js}',
     './src/app/redux/**/*.{html,js}',
     './src/app/routes/**/*.{html,js}',
-    'node_modules/flowbite-react/lib/esm/**/*.js',
+    // 'node_modules/flowbite-react/lib/esm/**/*.js',
 
   ],
   theme: {
