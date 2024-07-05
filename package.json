@@ -77,9 +77,14 @@
     "web-vitals": "^2.1.4",
     "xlsx": "^0.17.5"
   },
-  "homepage": "http:///derleng",
+  "homepage": "http://derleng",
+  "engines": {
+    "node": "20.11.0",
+    "yarn": "1.22.22"
+  },
   "resolutions": {
-    "autoprefixer": "10.4.5"
+    "core-js": "3.36.0",
+    "autoprefixer": "^10.4.13"
   },
   "scripts": {
     "start": "craco start",
