@@ -34,14 +34,14 @@ yarn start
 To create a production build:
 
 ```bash
-npm run build
+yarn build
 ```
 
 ## Previewing the Production Build
 
 1. **Install `serve` globally:**
     ```bash
-    npm install -g serve
+    yarn add -g serve
     ```
 
 2. **Serve the production build:**
