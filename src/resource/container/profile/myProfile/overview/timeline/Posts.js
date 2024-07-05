@@ -14,8 +14,8 @@ import Picker from 'emoji-picker-react';
 import moment from 'moment';
 import { useSelector, useDispatch } from 'react-redux';
 import PropTypes from 'prop-types';
-import { LightBox } from 'react-lightbox-pack';
-import 'react-lightbox-pack/dist/index.css';
+// import { Lightbox } from "react-lightbox-pack"; // <--- Importing LightBox Pack
+// import 'react-lightbox-pack/dist/index.css';
 import { AllPosts, BackShadowEmoji, Title } from './style';
 import { Cards } from '../../../../../components/cards/frame/cards-frame';
 import { Button } from '../../../../../components/buttons/buttons';

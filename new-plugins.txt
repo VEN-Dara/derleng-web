@@ -5,3 +5,5 @@ npm i -D daisyui@latest
 npm i react-phone-number-input
 
 npm install --save antd-v5@npm:antd@5
+
+yarn global add depcheck

@@ -11,9 +11,14 @@ Here’s the updated README with your contact information:
     cd web-v1
     ```
 
-2. **Install the required dependencies:**
+2. **Install yarn:**
     ```bash
-    npm install
+    npm install -g yarn
+    ```
+
+3. **Install the required dependencies:**
+    ```bash
+    yarn install
     ```
 
 ## Development
@@ -21,7 +26,7 @@ Here’s the updated README with your contact information:
 To start the development server:
 
 ```bash
-npm run start
+yarn start
 ```
 
 ## Production Build
